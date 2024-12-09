@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/dialog_background"
+    android:padding="24dp"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/dialog_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_delete_history_message"
+        android:textColor="@color/navy"
+        android:textSize="18sp"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="@font/poppins_bold"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_cancel_button"
+            android:textColor="@color/white"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/button_background"
+            android:fontFamily="@font/poppins_medium"
+            app:icon="@drawable/ic_cancel"
+            app:iconTint="@color/white" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_delete_button"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background"
+            android:fontFamily="@font/poppins_medium"
+            app:icon="@drawable/ic_checklist"
+            app:iconTint="@color/white" />
+    </LinearLayout>
+
+</LinearLayout>

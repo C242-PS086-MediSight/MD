@@ -1,0 +1,222 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">MediSight</string>
+    <string name="page_title" tools:ignore="MissingTranslation">Health Service</string>
+    <string name="searchbar" tools:ignore="MissingTranslation">Search Health Service</string>
+    <string name="text_filter_1" tools:ignore="MissingTranslation">Pharmacy</string>
+    <string name="text_filter_2" tools:ignore="MissingTranslation">Hospital</string>
+    <string name="text_filter_3" tools:ignore="MissingTranslation">Health Center</string>
+    <string name="article" tools:ignore="MissingTranslation">Article</string>
+    <string name="search_article" tools:ignore="MissingTranslation">Search Article</string>
+    <string name="konteks" tools:ignore="MissingTranslation">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="hot_article" tools:ignore="MissingTranslation">HOT ARTICLE</string>
+    <string name="medicine" tools:ignore="MissingTranslation">Medicine</string>
+    <string name="health_care" tools:ignore="MissingTranslation">Health Care</string>
+    <string name="content_description_media" tools:ignore="MissingTranslation">content_description_media</string>
+    <string name="article_title" tools:ignore="MissingTranslation">Article Title</string>
+    <string name="article_detail" tools:ignore="MissingTranslation">Article Detail</string>
+    <string name="author" tools:ignore="MissingTranslation">Author</string>
+    <string name="date" tools:ignore="MissingTranslation">Date</string>
+    <string name="description" tools:ignore="MissingTranslation">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="find_your_medicine" tools:ignore="MissingTranslation">Find Your Medicine</string>
+    <string name="syrup" tools:ignore="MissingTranslation">Syrup</string>
+    <string name="capsule" tools:ignore="MissingTranslation">Capsule</string>
+    <string name="tablet" tools:ignore="MissingTranslation">Tablet</string>
+    <string name="ointment" tools:ignore="MissingTranslation">Ointment</string>
+    <string name="medicine_title" tools:ignore="MissingTranslation">Medicine Title</string>
+    <string name="medicine_detail" tools:ignore="MissingTranslation">Medicine Detail</string>
+    <string name="price" tools:ignore="MissingTranslation">Price</string>
+    <string name="detail" tools:ignore="MissingTranslation">Detail</string>
+    <string name="splash_screen" tools:ignore="MissingTranslation">This is MediSight splash screen logo</string>
+    <string name="welcome_description" tools:ignore="MissingTranslation">Empowering you to see and heal instantly. With MediSight, scanning wounds is simple and insightful.</string>
+    <string name="illustration_description" tools:ignore="MissingTranslation">Illustration</string>
+    <string name="title_text" tools:ignore="MissingTranslation">We take care of it</string>
+    <string name="subtitle_text" tools:ignore="MissingTranslation">Our automation systems organize your folders, archive old files, and clear unnecessary ones. To continue, please provide access to your device\'s files. You\'ll have total control over which folders we can see.</string>
+    <string name="skip" tools:ignore="MissingTranslation">Skip</string>
+    <string name="grant_access" tools:ignore="MissingTranslation">Grant access</string>
+    <string name="description_text" tools:ignore="MissingTranslation">Please log in to your account or sign up now to enjoy a variety of features and conveniences we offer.</string>
+    <string name="login_button" tools:ignore="MissingTranslation">Log In</string>
+    <string name="signup_button" tools:ignore="MissingTranslation">Sign Up</string>
+    <string name="preview_image_logo" tools:ignore="MissingTranslation">This is MediSight on boarding logo</string>
+    <string name="username_title" tools:ignore="MissingTranslation">Username</string>
+    <string name="username_hint" tools:ignore="MissingTranslation">Enter your username</string>
+    <string name="back_button_description" tools:ignore="MissingTranslation">Go back</string>
+    <string name="email_title" tools:ignore="MissingTranslation">Email</string>
+    <string name="email_hint" tools:ignore="MissingTranslation">Enter your email</string>
+    <string name="register_title" tools:ignore="MissingTranslation">Register</string>
+    <string name="password_title" tools:ignore="MissingTranslation">Password</string>
+    <string name="password_hint" tools:ignore="MissingTranslation">Enter your password</string>
+    <string name="confirm_password_title" tools:ignore="MissingTranslation">Confirm your password</string>
+    <string name="confirm_password_hint" tools:ignore="MissingTranslation">Confirm your password</string>
+    <string name="or_continue_with" tools:ignore="MissingTranslation">Or continue with?</string>
+    <string name="google_sign_in_button" tools:ignore="MissingTranslation">This is Google Sign In</string>
+    <string name="welcome_text" tools:ignore="MissingTranslation">Welcome</string>
+    <string name="sub_welcome_text" tools:ignore="MissingTranslation">Sign In now and start using our app to easily scan and track your minor injuries. By creating an account, you can access personalized care tips, monitor your healing progress, and receive notifications for timely treatments.</string>
+    <string name="login_title" tools:ignore="MissingTranslation">Log In</string>
+    <string name="forgot_password_title" tools:ignore="MissingTranslation">Set Password</string>
+    <string name="sub_forgot_text" tools:ignore="MissingTranslation">Enter a new password to keep your account safe. Ensure it’s strong and unique for better protection.</string>
+    <string name="forgot_password" tools:ignore="MissingTranslation">Forgot password?</string>
+    <string name="set_password_button" tools:ignore="MissingTranslation">Confirm</string>
+    <string name="set_up_profile_title" tools:ignore="MissingTranslation">Profile</string>
+    <string name="preview_profile" tools:ignore="MissingTranslation">This is your image profile</string>
+    <string name="edit_profile_image" tools:ignore="MissingTranslation">Edit profile image</string>
+    <string name="full_name_label" tools:ignore="MissingTranslation">Full Name</string>
+    <string name="full_name_hint" tools:ignore="MissingTranslation">Enter your full name</string>
+    <string name="phone_number_label" tools:ignore="MissingTranslation">Phone Number</string>
+    <string name="phone_number_hint" tools:ignore="MissingTranslation">Enter your phone number</string>
+    <string name="date_of_birth_label" tools:ignore="MissingTranslation">Date of Birth</string>
+    <string name="date_of_birth_hint" tools:ignore="MissingTranslation">DD/MM/YY</string>
+    <string name="address_label" tools:ignore="MissingTranslation">Address</string>
+    <string name="address_hint" tools:ignore="MissingTranslation">Enter your address</string>
+    <string name="save_button" tools:ignore="MissingTranslation">Save</string>
+    <string name="email_invalid" tools:ignore="MissingTranslation">Invalid input email</string>
+    <string name="password_length_error" tools:ignore="MissingTranslation">Make sure 8 characters minimum password</string>
+    <string name="password_uppercase_error" tools:ignore="MissingTranslation">Password must contain at least one uppercase letter</string>
+    <string name="password_digit_error" tools:ignore="MissingTranslation">Password must contain at least one number</string>
+    <string name="hello_blank_fragment" tools:ignore="MissingTranslation">Hello blank fragment</string>
+    <string name="profile_image" tools:ignore="MissingTranslation">This is your profile</string>
+    <string name="profile_title" tools:ignore="MissingTranslation">Profile</string>
+    <string name="profile_name" tools:ignore="MissingTranslation">Kang Haerin</string>
+    <string name="profile_phone" tools:ignore="MissingTranslation">08212345678</string>
+    <string name="profile_email" tools:ignore="MissingTranslation">haerinlovedika@gmail.com</string>
+    <string name="update_profile_button" tools:ignore="MissingTranslation">Update Profile</string>
+    <string name="logout_button" tools:ignore="MissingTranslation">Log Out</string>
+    <string name="update_button" tools:ignore="MissingTranslation">Update</string>
+    <string name="edit_profile_title" tools:ignore="MissingTranslation">Edit Profile</string>
+    <string name="full_name_haerin" tools:ignore="MissingTranslation">Kang Haerin</string>
+    <string name="hello" tools:ignore="MissingTranslation">Hello,</string>
+    <string name="features" tools:ignore="MissingTranslation">Features</string>
+    <string name="medical_resume" tools:ignore="MissingTranslation">Medical History</string>
+    <string name="health_services" tools:ignore="MissingTranslation">Health Services</string>
+    <string name="button_setting_text" tools:ignore="MissingTranslation">This is setting</string>
+    <string name="see_all" tools:ignore="MissingTranslation">See All</string>
+    <string name="btn_medical_resume" tools:ignore="MissingTranslation">This is button medical history</string>
+    <string name="btn_medicine" tools:ignore="MissingTranslation">This is button medicine</string>
+    <string name="btn_health_services" tools:ignore="MissingTranslation">This is button health services</string>
+    <string name="btn_article" tools:ignore="MissingTranslation">This is button article</string>
+    <string name="setting_title" tools:ignore="MissingTranslation">Setting</string>
+    <string name="language" tools:ignore="MissingTranslation">Language</string>
+    <string name="accessibility" tools:ignore="MissingTranslation">Accessibility</string>
+    <string name="medical_resume_description" tools:ignore="MissingTranslation">After scanning, you’ll find a comprehensive overview of your previous injuries, treatments, and healing patterns. Keep everything in one place to monitor changes and ensure optimal care.</string>
+    <string name="selected_filter" tools:ignore="MissingTranslation">Tablet</string>
+    <string name="home" tools:ignore="MissingTranslation">Home</string>
+    <string name="camera" tools:ignore="MissingTranslation">Scan</string>
+    <string name="finished" tools:ignore="MissingTranslation">profile</string>
+    <string name="error_empty_username" tools:ignore="MissingTranslation">Please enter a username</string>
+    <string name="error_empty_email" tools:ignore="MissingTranslation">Please enter an email</string>
+    <string name="error_empty_password" tools:ignore="MissingTranslation">Please enter a password</string>
+    <string name="error_empty_confirm_password" tools:ignore="MissingTranslation">Please confirm your password</string>
+    <string name="error_password_mismatch" tools:ignore="MissingTranslation">Passwords do not match</string>
+    <string name="registration_success" tools:ignore="MissingTranslation">Registration successful</string>
+    <string name="error_invalid_email" tools:ignore="MissingTranslation">"Invalid email "</string>
+    <string name="login_success" tools:ignore="MissingTranslation">Login success</string>
+    <string name="google_sign_in_toast" tools:ignore="MissingTranslation">Sign in with google</string>
+    <string name="error_invalid_credentials" tools:ignore="MissingTranslation">Invalid credentials</string>
+    <string name="analyze" tools:ignore="MissingTranslation">Analyze</string>
+    <string name="gallery" tools:ignore="MissingTranslation">Gallery</string>
+    <string name="images_des" tools:ignore="MissingTranslation">This is your scan images</string>
+    <string name="scan_label" tools:ignore="MissingTranslation">Scan your Wounds</string>
+    <string name="result" tools:ignore="MissingTranslation">Result</string>
+    <string name="analysis_label" tools:ignore="MissingTranslation">Our Analysis Based On The Scan :</string>
+    <string name="result_text" tools:ignore="MissingTranslation">You are 99% Bruised</string>
+    <string name="see_more" tools:ignore="MissingTranslation">See more details and treatment?</string>
+    <string name="save" tools:ignore="MissingTranslation">Save to the history</string>
+    <string name="chat_bot_title" tools:ignore="MissingTranslation">AI Assistant</string>
+    <string name="injury_minor_scratch" tools:ignore="MissingTranslation">Luka Lecet</string>
+    <string name="injury_burn" tools:ignore="MissingTranslation">Luka Bakar</string>
+    <string name="injury_normal" tools:ignore="MissingTranslation">Luka Normal</string>
+    <string name="injury_bruise" tools:ignore="MissingTranslation">Luka Memar</string>
+    <string name="injury_cut" tools:ignore="MissingTranslation">Luka Sayatan</string>
+    <string name="injury_minor_scratch_desc" tools:ignore="MissingTranslation">Pertolongan pertama untuk luka lecet ringan</string>
+    <string name="injury_burn_desc" tools:ignore="MissingTranslation">Penanganan luka bakar sesuai tingkat keparahan</string>
+    <string name="injury_normal_desc" tools:ignore="MissingTranslation">Prosedur penanganan luka normal</string>
+    <string name="injury_bruise_desc" tools:ignore="MissingTranslation">Cara mengatasi luka memar</string>
+    <string name="injury_cut_desc" tools:ignore="MissingTranslation">Penanganan luka sayatan</string>
+    <string name="chat_input_hint" tools:ignore="MissingTranslation">Tulis pertanyaan Anda tentang luka...</string>
+    <string name="send_button_description" tools:ignore="MissingTranslation">Kirim pesan</string>
+    <string name="fan_chat_bot" tools:ignore="MissingTranslation">Go to chat bot</string>
+    <string name="ic_delete_description" tools:ignore="MissingTranslation">Delete the history</string>
+    <string name="send_verification_title" tools:ignore="MissingTranslation">Verification</string>
+    <string name="send_verification_button" tools:ignore="MissingTranslation">Send Verification</string>
+    <string name="enter_otp_title" tools:ignore="MissingTranslation">Enter OTP</string>
+    <string name="otp_instruction_text" tools:ignore="MissingTranslation">Please enter the 6-digit code sent to your email.</string>
+    <string name="submit_otp_button" tools:ignore="MissingTranslation">Submit</string>
+    <string name="error_passwords_not_matching" tools:ignore="MissingTranslation">Password not macthing</string>
+    <string name="error_password_too_short" tools:ignore="MissingTranslation">Password too short</string>
+    <string name="dialog_logout_message" tools:ignore="MissingTranslation">Are you sure you want to log out?</string>
+    <string name="dialog_cancel_button" tools:ignore="MissingTranslation">Cancel</string>
+    <string name="dialog_logout_button" tools:ignore="MissingTranslation">Log Out</string>
+    <string name="google_sign_in_failed" tools:ignore="MissingTranslation">Google Sign-In failed</string>
+    <string name="registration_failed" tools:ignore="MissingTranslation">Registration failed</string>
+    <string name="default_web_client_id">311402439748-177ec87imkpl6etk0r40f0mqf95j6vnb.apps.googleusercontent.com</string>
+    <string name="error_weak_password" tools:ignore="MissingTranslation">Error weak password!</string>
+    <string name="see_less" tools:ignore="MissingTranslation">LESS</string>
+    <string name="image_selection_failed" tools:ignore="MissingTranslation">Failed to select image</string>
+    <string name="image_selection_cancelled" tools:ignore="MissingTranslation">Image selection cancelled</string>
+    <string name="camera_capture_failed" tools:ignore="MissingTranslation">Failed to capture image</string>
+    <string name="camera_permission_denied" tools:ignore="MissingTranslation">Camera permission is required</string>
+    <string name="camera_permission_rationale" tools:ignore="MissingTranslation">Camera permission is required to take photos</string>
+    <string name="camera_open_failed" tools:ignore="MissingTranslation">Failed to open camera: %1$s</string>
+    <string name="image_directory_error" tools:ignore="MissingTranslation">Failed to create directory for storing images</string>
+    <string name="result_format" tools:ignore="MissingTranslation">%1$s (%.2f%%)</string>
+    <string name="image_saved" tools:ignore="MissingTranslation">Image saved: %1$s</string>
+    <string name="image_save_failed" tools:ignore="MissingTranslation">Failed to save image</string>
+    <string name="no_image_to_save" tools:ignore="MissingTranslation">No image to save</string>
+    <string name="no_results_title" tools:ignore="MissingTranslation">No Results</string>
+    <string name="no_results_description" tools:ignore="MissingTranslation">Unable to process image classification</string>
+    <string name="classification_result" tools:ignore="MissingTranslation">%s: %.2f%%</string>
+    <string name="classification_error_title" tools:ignore="MissingTranslation">No Results</string>
+    <string name="classification_error_description" tools:ignore="MissingTranslation">Unable to process image classification</string>
+    <string name="address_hint_example" tools:ignore="MissingTranslation">Klungkung</string>
+    <string name="medicine_recommendation" tools:ignore="MissingTranslation">Medicine Recommendation</string>
+    <string name="handling_tips" tools:ignore="MissingTranslation">Handling Steps</string>
+    <string name="handling_tips_description" tools:ignore="MissingTranslation">To treat bruising effectively, start with a cold compress to reduce swelling. Keep the bruised area elevated to minimize blood flow, and make sure to rest it to promote healing. If needed, use over-the-counter pain relievers to ease any discomfort. After 48 hours, switch to a warm compress to improve blood circulation and reduce stiffness in the area.</string>
+    <string name="more_tips" tools:ignore="MissingTranslation">More Tips</string>
+    <string name="more_tips_description" tools:ignore="MissingTranslation">Gently massage the bruise and surrounding area in circular motions once the swelling has subsided. Be gentle to avoid causing further damage.</string>
+    <string name="no_handling_required" tools:ignore="MissingTranslation">No specific treatment required. Your skin appears healthy.</string>
+    <string name="normal_skin_tips" tools:ignore="MissingTranslation">Continue maintaining good skin hygiene and use sunscreen when outdoors.</string>
+    <string name="article_description" tools:ignore="MissingTranslation">Article Description</string>
+    <string name="dosage" tools:ignore="MissingTranslation">Dosage</string>
+    <string name="title_activity_maps" tools:ignore="MissingTranslation">MapsActivity</string>
+    <string name="save_success" tools:ignore="MissingTranslation">Your medical history saved!</string>
+    <string name="save_failed" tools:ignore="MissingTranslation">Your medical history failed to save in history!</string>
+    <string name="notifications" tools:ignore="MissingTranslation">Notification</string>
+    <string name="location_button_desc" tools:ignore="MissingTranslation">Find the health services</string>
+    <string name="card_herbal_title" tools:ignore="MissingTranslation">Rekomendasi Obat Herbal Luka Ringan</string>
+    <string name="card_herbal_desc" tools:ignore="MissingTranslation">Info tentang obat herbal untuk luka ringan (cut, bruises, abrasion, burns)</string>
+    <string name="card_what_is_title" tools:ignore="MissingTranslation">Apa itu Luka Ringan?</string>
+    <string name="card_what_is_desc" tools:ignore="MissingTranslation">Penjelasan umum tentang definisi dan karakteristik luka ringan</string>
+    <string name="card_infection_title" tools:ignore="MissingTranslation">Apa tanda-tanda luka ringan yang terinfeksi?</string>
+    <string name="card_infection_desc" tools:ignore="MissingTranslation">Informasi tentang tanda-tanda infeksi pada luka ringan</string>
+    <string name="card_types_title" tools:ignore="MissingTranslation">Apa saja jenis luka ringan yang sering terjadi?</string>
+    <string name="card_types_desc" tools:ignore="MissingTranslation">Penjelasan berbagai jenis luka ringan yang umum terjadi</string>
+    <string name="card_cleaning_title" tools:ignore="MissingTranslation">Bagaimana cara membersihkan luka ringan?</string>
+    <string name="card_cleaning_desc" tools:ignore="MissingTranslation">Panduan cara membersihkan luka ringan agar tidak terinfeksi</string>
+    <string name="card_doctor_title" tools:ignore="MissingTranslation">Kapan harus ke dokter?</string>
+    <string name="card_doctor_desc" tools:ignore="MissingTranslation">Panduan kapan luka ringan perlu penanganan medis profesional</string>
+    <string name="card_scar_title" tools:ignore="MissingTranslation">Cara mencegah bekas luka</string>
+    <string name="card_scar_desc" tools:ignore="MissingTranslation">Tips mencegah dan mengurangi bekas luka setelah sembuh</string>
+    <string name="card_risks_title" tools:ignore="MissingTranslation">Risiko komplikasi luka ringan</string>
+    <string name="card_risks_desc" tools:ignore="MissingTranslation">Informasi risiko jika luka ringan tidak dirawat dengan baik</string>
+    <string name="obat_herbal" tools:ignore="MissingTranslation">Obat Herbal</string>
+    <string name="question_herbal" tools:ignore="MissingTranslation">Rekomendasi obat herbal untuk luka ringan</string>
+    <string name="question_herbal_desc" tools:ignore="MissingTranslation">Informasi tentang obat herbal untuk luka ringan</string>
+    <string name="question_what_is" tools:ignore="MissingTranslation">Apa itu Luka Ringan?</string>
+    <string name="question_what_is_desc" tools:ignore="MissingTranslation">Penjelasan dasar tentang luka ringan dan karakteristiknya</string>
+    <string name="question_infection" tools:ignore="MissingTranslation">Tanda infeksi?</string>
+    <string name="question_infection_desc" tools:ignore="MissingTranslation">Informasi tentang gejala infeksi pada luka ringan</string>
+    <string name="question_types" tools:ignore="MissingTranslation">Jenis luka ringan?</string>
+    <string name="question_types_desc" tools:ignore="MissingTranslation">Penjelasan berbagai jenis luka ringan (cut, bruises, abrasion, burns)</string>
+    <string name="question_cleaning" tools:ignore="MissingTranslation">Membersihkan luka</string>
+    <string name="question_cleaning_desc" tools:ignore="MissingTranslation">Panduan membersihkan dan merawat luka ringan dengan benar</string>
+    <string name="question_doctor" tools:ignore="MissingTranslation">Kapan sebaiknya luka ringan di periksakan ke dokter?</string>
+    <string name="question_doctor_desc" tools:ignore="MissingTranslation">Informasi waktu yang tepat untuk konsultasi medis</string>
+    <string name="question_scar" tools:ignore="MissingTranslation">Bagaimana cara mencegah bekas luka ringan setelah sembuh?</string>
+    <string name="question_scar_desc" tools:ignore="MissingTranslation">Tips pencegahan dan perawatan bekas luka</string>
+    <string name="question_risks" tools:ignore="MissingTranslation">Apa risiko komplikasi jika luka ringan tidak dirawat dengan baik?</string>
+    <string name="question_risks_desc" tools:ignore="MissingTranslation">Informasi tentang komplikasi dan risiko pada luka yang tidak terawat</string>
+    <string name="dialog_delete_history_message" tools:ignore="MissingTranslation">Are you sure you want to delete the history?</string>
+    <string name="dialog_delete_button" tools:ignore="MissingTranslation">Delete</string>
+    <string name="address_example" tools:ignore="MissingTranslation">Your address</string>
+    <string name="empty_state_illustration" tools:ignore="MissingTranslation">Empty state illustration</string>
+    <string name="medical_resume_empty" tools:ignore="MissingTranslation">There is no medical history recorded yet</string>
+</resources>
