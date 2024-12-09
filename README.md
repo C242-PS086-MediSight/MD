@@ -6,7 +6,7 @@ A smart wound care assistant powered by machine learning. MediSight helps users 
 
 - **Wound Classification**: ML-powered detection for burns, cuts, bruises, and abrasions
 - **Smart Care Guide**: Step-by-step treatment instructions and product recommendations
-- **Medical History**: Track wound healing progress, treatment records, and medication schedules
+- **Medical History**: Treatment records, and get your notification treatment
 - **Medicine Catalog**: Browse comprehensive list of wound care medicines with detailed information about usage, dosage, and side effects
 - **Medicine Details**: View medicine reviews, ratings, similar products, and purchase options
 - **Nearby Services**: Locate pharmacies and healthcare facilities
