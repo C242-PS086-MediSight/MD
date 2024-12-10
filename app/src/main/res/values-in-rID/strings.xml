@@ -169,9 +169,9 @@
     <string name="address_hint_example">Klungkung</string>
     <string name="medicine_recommendation">Rekomendasi Obat</string>
     <string name="handling_tips">Langkah Penanganan</string>
-    <string name="handling_tips_description">Untuk menangani memar secara efektif, mulailah dengan kompres dingin untuk mengurangi pembengkakan. Jaga area memar tetap terangkat untuk meminimalkan aliran darah, dan pastikan untuk beristirahat untuk mendukung penyembuhan. Jika diperlukan, gunakan pereda nyeri yang dijual bebas untuk meredakan ketidaknyamanan. Setelah 48 jam, ganti dengan kompres hangat untuk meningkatkan sirkulasi darah dan mengurangi kekakuan di area tersebut.</string>
+    <string name="handling_tips_description">Tidak ada koneksi untuk melihat langkah penanganan, hidupkan data anda untuk melihatnya</string>
     <string name="more_tips">Tips Tambahan</string>
-    <string name="more_tips_description">Pijat dengan lembut area memar dan sekitarnya dengan gerakan melingkar setelah pembengkakan mereda. Lakukan dengan hati-hati untuk menghindari kerusakan lebih lanjut.</string>
+    <string name="more_tips_description">Tidak bisa melihat tips lebih lanjut, pastikan anda dalam jaringan</string>
     <string name="no_handling_required">Tidak diperlukan perawatan khusus. Kulit Anda tampak sehat.</string>
     <string name="normal_skin_tips">Terus jaga kebersihan kulit dan gunakan tabir surya saat berada di luar ruangan.</string>
     <string name="article_description">Deskripsi Artikel</string>

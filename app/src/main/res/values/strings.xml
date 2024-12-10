@@ -169,9 +169,9 @@
     <string name="address_hint_example" tools:ignore="MissingTranslation">Klungkung</string>
     <string name="medicine_recommendation" tools:ignore="MissingTranslation">Medicine Recommendation</string>
     <string name="handling_tips" tools:ignore="MissingTranslation">Handling Steps</string>
-    <string name="handling_tips_description" tools:ignore="MissingTranslation">To treat bruising effectively, start with a cold compress to reduce swelling. Keep the bruised area elevated to minimize blood flow, and make sure to rest it to promote healing. If needed, use over-the-counter pain relievers to ease any discomfort. After 48 hours, switch to a warm compress to improve blood circulation and reduce stiffness in the area.</string>
+    <string name="handling_tips_description" tools:ignore="MissingTranslation">No connection to see the handling steps, turn on your data to see it</string>
     <string name="more_tips" tools:ignore="MissingTranslation">More Tips</string>
-    <string name="more_tips_description" tools:ignore="MissingTranslation">Gently massage the bruise and surrounding area in circular motions once the swelling has subsided. Be gentle to avoid causing further damage.</string>
+    <string name="more_tips_description" tools:ignore="MissingTranslation">No connection to see more tips to handling your detected minor wound, make sure you are online!</string>
     <string name="no_handling_required" tools:ignore="MissingTranslation">No specific treatment required. Your skin appears healthy.</string>
     <string name="normal_skin_tips" tools:ignore="MissingTranslation">Continue maintaining good skin hygiene and use sunscreen when outdoors.</string>
     <string name="article_description" tools:ignore="MissingTranslation">Article Description</string>
