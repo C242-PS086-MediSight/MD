@@ -2,9 +2,7 @@
 
 A **smart wound care assistant** powered by machine learning. MediSight helps users identify and manage minor wounds through image classification, providing reliable self-treatment guidance.
 
----
-
-# MediSight App Features  
+---  
 
 # Wound Care App Features  
 
