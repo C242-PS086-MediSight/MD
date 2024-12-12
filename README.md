@@ -4,7 +4,7 @@ A **smart wound care assistant** powered by machine learning. MediSight helps us
 
 ---  
 
-# MediSightFeatures  
+# MediSight Features  
 
 ## 🔑 Login & Register  
 - **Feature:** Secure login and registration system powered by **Firebase Authentication** in real-time.  
