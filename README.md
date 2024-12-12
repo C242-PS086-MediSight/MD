@@ -124,6 +124,13 @@ Try the latest version of MediSight:
 
 ---
 
+## 🔗 User Interface Design
+
+UI Design Application:
+[Figma](https://www.figma.com/design/Uv6Su6QKdp8tUmPnBahfUF/MediSight?node-id=1-2&t=OrYpmG96o8vsmziv-1)
+
+---
+
 ## 👥 Mobile Development Team
 
 | Name                            | Role              | Contact                       |
