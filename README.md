@@ -4,18 +4,76 @@ A **smart wound care assistant** powered by machine learning. MediSight helps us
 
 ---
 
-## 🌟 Key Features
+# MediSight App Features  
 
-- **Wound Classification**: ML-powered detection for burns, cuts, bruises, and abrasions.
-- **Smart Care Guide**: Step-by-step treatment instructions and product recommendations.
-- **Medical History**: Treatment records with notification reminders for ongoing care.
-- **Medicine Catalog**: Comprehensive list of wound care medicines with detailed information about usage, dosage, and side effects.
-- **Medicine Details**: Reviews, ratings, similar products, and purchase options.
-- **Nearby Services**: Locate pharmacies and healthcare facilities.
-- **Article Catalog**: Browse categorized health articles filtered by topics, popularity, and recent updates.
-- **Article Details**: Read comprehensive articles with author information, related content, and categorized topics.
-- **AI Assistant**: Interactive chatbot for wound care information.
-- **Smart Notifications**: Receive reminders for medication, treatment schedules, and wound check-ups.
+# Wound Care App Features  
+
+## 🔑 Login & Register  
+- **Feature:** Secure login and registration system powered by **Firebase Authentication** in real-time.  
+- **Benefit:** Ensures user data security while offering a personalized experience.  
+
+---
+
+## 🧑‍💻 User Profile  
+- **Feature:**  
+  - Editable user profile with options to update photo, name, phone, date of birth, and address.  
+  - Integrated with Firebase Realtime Database to save and retrieve user data.  
+- **Benefit:** Keeps user information up-to-date for a more customized experience.  
+
+---
+
+## 🔍 Wound Classification  
+- **Feature:** AI-powered wound type detection for accurate classification.  
+- **Benefit:** Provides quick and reliable information about the wound type.  
+
+---
+
+## 📋 Wound Care Instructions  
+- **Feature:** Step-by-step wound care guidance with product recommendations.  
+- **Benefit:** Helps users perform optimal care tailored to the wound type.  
+
+---
+
+## 🗺 Health Service Locator  
+- **Feature:** Locate nearby pharmacies or healthcare facilities using **Google Maps SDK**.  
+- **Benefit:** Assists users in finding the nearest health services conveniently.  
+
+---
+
+## 📚 Wound Care Articles  
+- **Feature:** Educational content with tips, tricks, and best practices for wound care.  
+- **Benefit:** Enhances users' knowledge and confidence in managing wounds.  
+
+---
+
+## 🤖 Chatbot Assistant  
+- **Feature:** A virtual assistant that offers personalized wound care advice.  
+- **Benefit:** Provides real-time, relevant information and guidance to users.  
+
+---
+
+## 📜 Medical History  
+- **Feature:** Tracks wound care history, including saved diagnoses and time reports.  
+- **Benefit:** Helps users monitor their wound healing progress over time.  
+
+---
+
+## 💊 Medicine Information  
+- **Feature:**   Including name, price, Clear guidance on how to use the medicine, comprehensive details about the medicine's purpose and usage.
+- **Benefit:** Provides users with essential information about medicines for wound care.  
+
+---
+
+## 🔔 Notifications  
+- **Feature:** Receive reminders for wound care routines, health tips, and emergency updates.  
+- **Benefit:** Keeps users informed and disciplined in their wound care regimen.  
+
+---
+
+### Additional Notes  
+This app leverages advanced technologies like Firebase and Google Maps SDK to provide a seamless and efficient user experience. With features ranging from wound classification to medicine information, it offers a complete solution for effective wound management.
+
+
 
 ---
 
@@ -24,11 +82,20 @@ A **smart wound care assistant** powered by machine learning. MediSight helps us
 - **Language**: Kotlin
 - **Architecture**: MVVM (Model-View-ViewModel)
 - **Dependencies**:
-  - Android Jetpack Components
-  - CameraX API
-  - Retrofit for API integration
-  - TensorFlow Lite for ML model integration
-  - Google Maps SDK
+  - AndroidX Core & UI Libraries
+  - Material Design
+  - Navigation
+  - Firebase
+  - Google Play Services
+  - TensorFlow Lite
+  - Hilt (Dependency Injection)
+  - Country Code Picker (CCP)
+  - Circle Image View
+  - OkHttp & Retrofit
+  - Generative AI
+  - Glide (Image Loading)
+  - WorkManager
+  - Kotlin Coroutines
 
 ---
 
@@ -70,8 +137,8 @@ Try the latest version of MediSight:
 
 ## 🤝 Related Repositories
 
-- [Machine Learning](https://github.com/MediSight/machine-learning)
-- [Cloud Computing](https://github.com/MediSight/cloud-computing)
+- [Machine Learning](https://github.com/C242-PS086-MediSight/ML)
+- [Cloud Computing](https://github.com/C242-PS086-MediSight/CC)
 
 ---
 
